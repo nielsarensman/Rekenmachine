@@ -1,0 +1,18 @@
+c:\users\niels\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+c:\users\niels\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Rekenmachine.resources
+c:\users\niels\documents\visual studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\niels\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\rekenmachine.exe.config
+C:\Users\niels\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\rekenmachine.exe
+C:\Users\niels\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\rekenmachine.pdb
+C:\Users\niels\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\rekenmachine.Properties.Resources.resources
+C:\Users\niels\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\rekenmachine.exe
+C:\Users\niels\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\rekenmachine.pdb
+C:\Users\niels\Documents\Visual Studio 2017\Projects\Rekenmachine v2\WindowsFormsApp1\bin\Debug\rekenmachine.exe.config
+C:\Users\niels\Documents\Visual Studio 2017\Projects\Rekenmachine v2\WindowsFormsApp1\bin\Debug\rekenmachine.exe
+C:\Users\niels\Documents\Visual Studio 2017\Projects\Rekenmachine v2\WindowsFormsApp1\bin\Debug\rekenmachine.pdb
+C:\Users\niels\Documents\Visual Studio 2017\Projects\Rekenmachine v2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\niels\Documents\Visual Studio 2017\Projects\Rekenmachine v2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Rekenmachine.resources
+C:\Users\niels\Documents\Visual Studio 2017\Projects\Rekenmachine v2\WindowsFormsApp1\obj\Debug\rekenmachine.Properties.Resources.resources
+C:\Users\niels\Documents\Visual Studio 2017\Projects\Rekenmachine v2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\niels\Documents\Visual Studio 2017\Projects\Rekenmachine v2\WindowsFormsApp1\obj\Debug\rekenmachine.exe
+C:\Users\niels\Documents\Visual Studio 2017\Projects\Rekenmachine v2\WindowsFormsApp1\obj\Debug\rekenmachine.pdb
